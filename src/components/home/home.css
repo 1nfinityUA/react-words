@@ -1,0 +1,26 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 750px;
+    height: 488px;
+    overflow: auto;
+}
+.home__words {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 9px;
+    height: 40px;
+    width: 150px;
+    margin-left: 14px;
+    margin-bottom: 8px;
+}
+.home__words:hover {
+    background-color: #c7c6c6;
+}
+p {
+    font-size: 14px;
+}

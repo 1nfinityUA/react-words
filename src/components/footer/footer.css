@@ -1,0 +1,14 @@
+.footer {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    margin: 10px auto;
+    background: #E5E5E5;
+    height: 45px;
+}
+.footer__items {
+    margin: 0 30px;
+    font-size: 10px;
+}
